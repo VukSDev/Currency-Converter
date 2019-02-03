@@ -1,0 +1,19 @@
+*::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  font-size: 62.5%;
+  background-color: #292929; }
+
+.section-calculator {
+  background-color: #C4C4C4;
+  color: #000;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  text-align: center;
+  width: 80%;
+  height: 80vh;
+  position: absolute;
+  margin: 10vh; }
